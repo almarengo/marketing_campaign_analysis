@@ -42,5 +42,11 @@ In this notebook, similar to what we did in notebook 2, we'll look into classifi
 
 <br/>
 
+### Notebook 4: Pipelines and Column Transformers
+In this notebook, we run what we did in notebook 2, using column transformers and pipelines. We will illustrate how to apply different preprocessing and feature extraction pipelines to different subsets of features. This is particularly handy for the case of datasets that contain heterogeneous data types, since we may want to scale the numeric features and one-hot encode the categorical ones.
+
+
+<br/>
+
 ## Conclusions
 This is a good review of major data science concepts. For every data scientist out there that needs a good refresher around Machine Learning. 
