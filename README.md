@@ -18,6 +18,8 @@ This project is a meant to review all the basic data science concepts including:
 - Pre Pruning, Post Pruning
 - Model evaluation and metrics
 - Hyperparameters tuning
+- Pipelines and Column Transformers
+- Bagging and Boosting
 
 Because of its great usability, we used a famous dataset from Kaggle: Marketing campaign. [Link here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 
@@ -44,6 +46,12 @@ In this notebook, similar to what we did in notebook 2, we'll look into classifi
 
 ### Notebook 4: Pipelines and Column Transformers
 In this notebook, we run what we did in notebook 2, using column transformers and pipelines. We will illustrate how to apply different preprocessing and feature extraction pipelines to different subsets of features. This is particularly handy for the case of datasets that contain heterogeneous data types, since we may want to scale the numeric features and one-hot encode the categorical ones.
+
+
+<br/>
+
+### Notebook 5: Bagging and Boosting
+In this notebook, similar to what we did in notebook 3, we'll run tree classifiers and in particula two ensemble methods: boosting wit XGBoost and badding with Random Forest. We will illustrate how these two methods perform against regular decision trees.
 
 
 <br/>
